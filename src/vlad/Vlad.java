@@ -28,7 +28,7 @@ public class Vlad extends Application {
     @Override
     public void start(Stage primaryStage) {
         Button btn = new Button();
-        btn.setText("Procitaj usere");
+        btn.setText("Get users");
         btn.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
