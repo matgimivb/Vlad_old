@@ -8,7 +8,7 @@ import java.sql.*;
  * @author IVb
  */
 public class DBConnection {
-    
+    //Ag srebro nase MG info
     public final static String DB_URL = "vladDB.db";
     public final static String CONNECTION_STRING = "jdbc:sqlite:"+DB_URL;
     
